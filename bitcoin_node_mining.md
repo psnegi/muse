@@ -14,7 +14,7 @@ To learning  about working of bitcoin follow these instruction targetted to rpi 
     if minor is on different rpi board use following commands to start
     ./bfgminer --url=http://ip or hostname:8332 --userpass=rpcuser:rpcname --generate-to=address to receive btc
 
-    Installing tmux can be handy. Also Additionally, you need to enable "lingering" so that the tmux process can persist even if no active user session.
+    Setup proper firewall rule(using **ufw**) on bitcoin node. Installing tmux on mining node can be handy. Also Additionally, you need to enable "lingering" so that the tmux process can persist even if no active user session.
     **loginctl enable-linger**
     
   
