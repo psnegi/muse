@@ -9,7 +9,6 @@ Learning and Educational purpose  only
 # HW
 - [Project Mini Rack](https://mini-rack.jeffgeerling.com/)
 # SW
-- [raspibolt](https://raspibolt.org/)
 - [Dockers containers to Try](https://www.xda-developers.com/tried-these-docker-containers-cant-live-without-them/)
 
 
@@ -17,5 +16,3 @@ Learning and Educational purpose  only
 - [Copilot Chat Cookbook](https://docs.github.com/en/copilot/example-prompts-for-github-copilot-chat)
 - [Newsletter](https://resources.github.com/newsletter/)
 
-# Mini projects
-[Setup bitcoin node and mining](./bitcoin_node_mining.md)
