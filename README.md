@@ -1,4 +1,6 @@
 
+Learning and Educational purpose  only
+
 # Books
 - [Broken Money](https://a.co/d/gt7WLyP)
 - [The Price of Tomorrow: Why Deflation is the Key to an Abundant Future](https://a.co/d/2jxf0FP)
@@ -14,3 +16,6 @@
 # Tools
 - [Copilot Chat Cookbook](https://docs.github.com/en/copilot/example-prompts-for-github-copilot-chat)
 - [Newsletter](https://resources.github.com/newsletter/)
+
+# Mini projects
+[Setup bitcoin node and mining](./bitcoin_node_mining.md)
