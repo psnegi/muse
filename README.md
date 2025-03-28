@@ -5,7 +5,7 @@ Learning and Educational purpose  only
 - [Broken Money](https://a.co/d/gt7WLyP)
 - [The Price of Tomorrow: Why Deflation is the Key to an Abundant Future](https://a.co/d/2jxf0FP)
 - [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://a.co/d/6xww5q8)
-- 
+- [Antifragile: Things that Gain from Disorder](https://a.co/d/7ypZns9)
 # HW
 - [Project Mini Rack](https://mini-rack.jeffgeerling.com/)
 # SW
