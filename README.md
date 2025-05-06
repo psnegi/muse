@@ -12,6 +12,7 @@ Learning and Educational purpose  only
 # HW
 - [Project Mini Rack](https://mini-rack.jeffgeerling.com/)
 # SW
+- [homelab setup journey](./homelab_software_setup.md)
 - [Dockers containers to Try](https://www.xda-developers.com/tried-these-docker-containers-cant-live-without-them/)
 
 
