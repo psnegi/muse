@@ -11,4 +11,4 @@ Assumes you have immich setup and running
 - [google take out][ https://takeout.google.com]. Deselect all, select only photos, select dowload type and size
 - Download the take* file in folder. key in following command can be created from immich setting.
 - Do dry run -dry-run and if output looks ok run without it 
-- **immich-go** -server=http://SERVER_IP:PORT -key=XXXXAPIKEYGOESHEREXXXXXXXX upload -dry-run -create-albums -google-photos takeout-*.zip         
+- **immich-go** immich-go upload from-google-photos --server=http://server:port --api-key=.... --dry-run  takeo*.zip
