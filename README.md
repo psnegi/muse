@@ -7,6 +7,9 @@ Learning and Educational purpose  only
 - [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://a.co/d/6xww5q8)
   
 - [Antifragile: Things that Gain from Disorder](https://a.co/d/7ypZns9)
+
+- [The Blind Spot](https://a.co/d/fK4AcXM)
+- [Scale: The Universal Laws of Life, Growth, and Death in Organisms, Cities, and Companies](https://a.co/d/gOUbopw)
   
 - [Mises Institute Books](https://mises.org/library/books)
 # HW
