@@ -17,6 +17,8 @@
 
   All this depends on the search being finely tuned. Better chunking and adding context(tag, synonyms etc.) into chunk
   Also better vector database, rankers, check grounding(fact checking, ai can provide the reference for fact).
+
+  Finally they need to be transparent, accountable, robust and fair
  ## Google cloud tools
   Vertex AI search, Vertex AI search builder AI, Vertex AI Rag Engine
    # Agent as contractors
