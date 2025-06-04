@@ -7,3 +7,16 @@
 - use exampels, one shot few shots
 - Use string action verb, tell model exactly what to do
 - use instructions over constraints. Dont use these libraries vs use these libraries
+# Agent
+- Google Agent builder engine
+- Vertex AI Eval service. Integrates with monitoring etc.
+  # Agentic Rag
+   agent actively refines queries(like how to pair my phone in car manual agentic ai), parse user query 
+  , evaluate search results into multiple steps
+   and search for the best possible match then finally combine, even refine further.
+
+  All this depends on the search being finely tuned. Better chunking and adding context(tag, synonyms etc.) into chunk
+  
+   # Agent as contractors
+  - AI Contract concept
+  ?? Outline exactly what one, need, penalties. Making it accountable.
