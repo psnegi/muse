@@ -16,7 +16,9 @@
    and search for the best possible match then finally combine, even refine further.
 
   All this depends on the search being finely tuned. Better chunking and adding context(tag, synonyms etc.) into chunk
-  
+  Also better vector database, rankers, check grounding(fact checking, ai can provide the reference for fact).
+ ## Google cloud tools
+  Vertex AI search, Vertex AI search builder AI, Vertex AI Rag Engine
    # Agent as contractors
   - AI Contract concept
   ?? Outline exactly what one, need, penalties. Making it accountable.
