@@ -1,3 +1,6 @@
+# Gen AI courses
+- [5 day intensive genAI course](https://www.youtube.com/playlist?list=PLqFaTIg4myu-lbBTrUpoQQIzZZxvrOaP5)
+
 # Prompt engineering Techniques
 - COT Chain of thoughts, instead of a single prompt ask to think in a stepwise fashion. May add some examples
 - Self consistency: Ask multiple expert opinion and choose the one with consistency in the answers.
