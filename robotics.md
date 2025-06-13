@@ -6,4 +6,4 @@
 - [Sunfounder Kelper kit tutorial links](https://docs.sunfounder.com/projects/kepler-kit/en/latest/)
 - [kepler kit github](https://github.com/sunfounder/kepler-kit/tree/main)
 # Extra HW
-- [OLED display](https://amzn.to/3nq8l4Z) low power, can turnoff display via software etc.
+- [OLED 1306 display](https://amzn.to/3nq8l4Z) low power, can turnoff display via software etc.
