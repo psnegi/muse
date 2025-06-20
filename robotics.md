@@ -7,3 +7,6 @@
 - [kepler kit github](https://github.com/sunfounder/kepler-kit/tree/main)
 # Extra HW
 - [OLED 1306 display](https://amzn.to/3nq8l4Z) low power, can turnoff display via software etc.
+
+# Electronics video
+- [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
