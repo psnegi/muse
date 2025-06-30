@@ -10,3 +10,6 @@
 
 # Electronics video
 - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
+
+# Terms
+stranded wire, heat sink tubing
