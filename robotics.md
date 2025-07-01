@@ -16,3 +16,4 @@ stranded wire, heat sink tubing
 
 # Misc
 - [Soldering](https://www.youtube.com/watch?v=6rmErwU5E-k)
+- [Cleaning oxidised Tip](https://www.youtube.com/watch?v=rA4cpaEfu6k&t=27s)
