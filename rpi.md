@@ -1,2 +1,2 @@
 # Projects
-- [clock](https://github.com/fatihak/InkyPi)
+- [rpi and eink display projects](https://www.xda-developers.com/e-ink-raspberry-pi-projects/)
