@@ -1,5 +1,27 @@
 # Gen AI courses
+
+
 - [5 day intensive genAI course](https://www.youtube.com/playlist?list=PLqFaTIg4myu-lbBTrUpoQQIzZZxvrOaP5)
+
+
+🔗 AI Agent Roadmap - 
+https://lnkd.in/decu-6tZ
+
+🔗 Zero to Production Guide - 
+https://lnkd.in/d7mE8eSX
+
+🔗 AI Agent Courses Part 1 - 
+https://lnkd.in/dPsVNVWT
+
+🔗 AI Agent Courses Part 2 - 
+https://lnkd.in/d6y4p4Bk
+
+🔗 AI Agent Courses Part 3 - 
+https://lnkd.in/d_v-sXCf
+
+🔗 50+ AI Agent Projects - 
+https://lnkd.in/dBQEyZdw
+
 
 # Prompt engineering Techniques
 - COT Chain of thoughts, instead of a single prompt ask to think in a stepwise fashion. May add some examples
