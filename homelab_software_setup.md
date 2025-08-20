@@ -12,3 +12,8 @@ Assumes you have immich setup and running
 - Download the take* file in folder. key in following command can be created from immich setting.
 - Do dry run -dry-run and if output looks ok run without it 
 - **immich-go** immich-go upload from-google-photos --server=http://server:port --api-key=.... --dry-run  takeo*.zip
+# Setting up home assistant
+
+## wifif setup
+- Isntall shh from setting, addon and  search ssh
+- ha  network update wlan0 --ipv4-method auto --ipv6-method auto --wifi-auth wpa-psk --wifi-mode infrastructure --wifi-ssid "YOUR_SSID" --wifi-psk "YOUR_WIFI_PASSWORD"
