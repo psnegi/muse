@@ -14,6 +14,11 @@ Learning and Educational purpose  only
 - [Scale: The Universal Laws of Life, Growth, and Death in Organisms, Cities, and Companies](https://a.co/d/gOUbopw)
   
 - [Mises Institute Books](https://mises.org/library/books)
+
+# Videos
+- [Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/)
+- [Jordan B Peterson: Maps of Meaning: The Architecture of Belief ](https://www.youtube.com/playlist?list=PL22J3VaeABQCn5nTAx65NRlh1EsKD0UQD)
+- [Jordan B Peterson](https://www.youtube.com/user/JordanPetersonVideos )
 # HW
 - [Project Mini Rack](https://mini-rack.jeffgeerling.com/)
 # SW
