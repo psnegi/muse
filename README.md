@@ -5,6 +5,8 @@ Learning and Educational purpose  only
 - [Broken Money](https://a.co/d/gt7WLyP)
 - [The Price of Tomorrow: Why Deflation is the Key to an Abundant Future](https://a.co/d/2jxf0FP)
 - [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://a.co/d/6xww5q8)
+- [The Fiat Standard: Debt Slavery Alternative to Human Civilization](https://a.co/d/1j8xJ99)
+  + [Saifedean Lecture](https://www.youtube.com/watch?v=t7rYIkl6lIQ&list=PL_nQ8kZARIe01xBNJTi2YujKSXCJQ_Sf4&index=9)
   
 - [Antifragile: Things that Gain from Disorder](https://a.co/d/7ypZns9)
 
