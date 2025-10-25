@@ -16,17 +16,15 @@ Learning and Educational purpose  only
 - [Mises Institute Books](https://mises.org/library/books)
 ## Dystopian related
 ### By Franz Kafka:
-• The Trial: Lex discusses this novel in detail, noting that the main character is arrested for an unspecified crime and navigates a labyrinthine legal system where the trial becomes a "permanent condition".
-• The Castle: Lex describes this work as having a similar description to The Trial regarding the "absurd inaccessibility of those in authority" and "nightmarish bureaucracy".
-• Metamorphosis: Lex quotes the famous opening lines of this work, where the character Gregor Samsa wakes up transformed into a gigantic insect.
-• In the Penal Colony.
-• Hunger Artist: Lex notes this story is relevant to the modern-day "attention economy" and the desire for fame.
-Other Dystopian and Related Literature: Lex states that it is often useful to read works of "over-the-top dystopian variety" to better understand the real world and destructive paths humanity might take. He includes:
-• 1984.
-• Animal Farm.
-• Brave New World.
-• The Plague by Albert Camus.
-
+• The Trial (by Franz Kafka)
+• 1984
+• Animal Farm
+• Brave New World
+• The Castle (by Franz Kafka)
+• Metamorphosis (also referred to as The Metamorphosis) (by Franz Kafka)
+• The Plague (by Albert Camus)
+• In the Penal Colony (by Franz Kafka)
+• Hunger Artist (by Franz Kafka)
 
 # Videos
 - [Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/)
