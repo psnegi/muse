@@ -1,7 +1,6 @@
 # Tutorials
 -[data science tutorials](https://github.com/balapriyac/data-science-tutorials/tree/main)
 
-These 16 GitHub repos are better than any $1,000 AI/ML course:
 
 1: Machine Learning for beginners by Microsoft (78.5k ⭐)
 https://lnkd.in/e7S8yDbS
