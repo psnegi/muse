@@ -1,2 +1,3 @@
 - [Fusion 360](https://www.youtube.com/watch?v=p4rvteV-L8s&list=PLGs0VKk2DiYwxUjGRWEgotTY8ipVvFsIp&index=1) for visual design and understanding the concept.
 - [cadquery](https://cadquery.readthedocs.io/en/latest) for python based programatic design
+- [awesome-cadquery](https://github.com/CadQuery/awesome-cadquery)
