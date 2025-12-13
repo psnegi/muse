@@ -27,6 +27,8 @@ Learning and Educational purpose  only
 • Hunger Artist (by Franz Kafka)
 
 # Videos
+- [The Four Horsemen ](https://www.youtube.com/watch?v=5fbvquHSPJU)
+- [How Money & Banking Work (& why they're broken today) - Lyn Alden](https://www.youtube.com/watch?v=jk_HWmmwiAs)
 - [Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/)
 - [Jordan B Peterson: Maps of Meaning: The Architecture of Belief ](https://www.youtube.com/playlist?list=PL22J3VaeABQCn5nTAx65NRlh1EsKD0UQD)
 - [Jordan B Peterson](https://www.youtube.com/user/JordanPetersonVideos )
