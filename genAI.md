@@ -49,3 +49,5 @@ https://lnkd.in/dBQEyZdw
    # Agent as contractors
   - AI Contract concept
   ?? Outline exactly what one, need, penalties. Making it accountable.
+# Github copilot
+- [Scripting copilot cli](https://www.youtube.com/watch?v=Ed3uQYdr3Wc)
