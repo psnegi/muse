@@ -2,6 +2,8 @@
 Learning and Educational purpose  only
 
 # Books
+## Money
+
 - [Broken Money](https://a.co/d/gt7WLyP)
 - [The Price of Tomorrow: Why Deflation is the Key to an Abundant Future](https://a.co/d/2jxf0FP)
 - [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://a.co/d/6xww5q8)
@@ -14,7 +16,17 @@ Learning and Educational purpose  only
 - [Scale: The Universal Laws of Life, Growth, and Death in Organisms, Cities, and Companies](https://a.co/d/gOUbopw)
   
 - [Mises Institute Books](https://mises.org/library/books)
+
+## Philosophical and Scientific Texts
+  • 137: This book documents the research of psychologist Carl Jung and a physicist into the number 137, known as the electron coupling constant. Grant explains that 137 represents the "separation of light from darkness" and is the primary number associated with the emergence of consciousness.
+• Theophony by Eric Pearl: This text explores the paradox of divinity, describing God as simultaneously imminent (omnipresent and existing within all things) and transcendent (existing beyond or outside of our dimensions).
+• Flatland (Edwin Abbott): Used as a vital metaphor, this book illustrates how a higher-dimensional entity (like a sphere) would appear to a lower-dimensional observer (a flatlander). It highlights the "unity of opposites" that occurs when we view lower-dimensional slices of a higher-dimensional reality.
+• Gene Keys by Richard Rudd: Recommended for its insights into soul evolution, this book frames the human experience as a transition through three stages: the "challenge" (operating in fear), the "gift" (unique authenticity), and the "siddhi" (highest divine expression).
+• The Numerical Universe: This text is cited for its exploration of mathematical correspondences, particularly the significance of the number 21 in partition theory.
+• The Emerald Tablets and The Kybalion: These foundational Hermetic texts are recommended for establishing the principle that "the entire universe is mental" and a projection of the mind.
+
 ## Dystopian related
+
 ### By Franz Kafka:
 • The Trial (by Franz Kafka)
 • 1984
