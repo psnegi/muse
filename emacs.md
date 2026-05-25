@@ -88,14 +88,23 @@
   
   :bind
   ;; 4. GLOBAL KEYBINDINGS FOR STEPPING & VARIABLE INSPECTION
+  
   (("C-c d d" . dape)                  ;; Launch debugger UI / Select profile
+  
    ("C-c d b" . dape-breakpoint-toggle) ;; Toggle a visual breakpoint on the current line
+   
    ("C-c d n" . dape-next)              ;; Step Over (Execute next line of code)
+   
    ("C-c d s" . dape-step-in)           ;; Step Into (Descend into current function)
+   
    ("C-c d o" . dape-step-out)          ;; Step Out (Escape current function scope)
+   
    ("C-c d c" . dape-continue)          ;; Continue execution to the next breakpoint
+   
    ("C-c d r" . dape-repl)              ;; Jump context directly to the active REPL prompt
+   
    ("C-c d w" . dape-watch-dwim)        ;; Track current variable in persistent sidebar
+   
    ("C-c d q" . dape-quit)))            ;; Terminate / Disconnect debugger session
 
 # OPERATIONAL RUNNING INSTRUCTIONS (COPY & PASTE FOR YOUR TERMINALS)
