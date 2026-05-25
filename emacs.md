@@ -98,21 +98,21 @@
    ("C-c d w" . dape-watch-dwim)        ;; Track current variable in persistent sidebar
    ("C-c d q" . dape-quit)))            ;; Terminate / Disconnect debugger session
 
-;; =========================================================================
-;; OPERATIONAL RUNNING INSTRUCTIONS (COPY & PASTE FOR YOUR TERMINALS)
-;; =========================================================================
-;;
-;; STEP 1 [Local Machine Terminal]: Open the Network Bridge / SSH Tunnel
-;; ssh -L 5678:localhost:5678 dev@your-remote-server-ip
-;;
-;; STEP 2 [Remote Container Shell]: Launch your App with Debugpy
-;; python -m debugpy --listen 0.0.0.0:5678 --wait-for-client main.py
-;;
-;; STEP 3 [Emacs]: Open file via TRAMP, set breakpoint (C-c d b), 
-;; run M-x dape (C-c d d) and choose 'debugpy-remote-tramp-docker'.
-;;
-;; STEP 4 [Variable Printing]: 
-;; Look at the automatically updated '*dape-info Variables*' sidebar window,
-;; or switch to the REPL (C-c d r) and type raw Python expressions directly.
-;; =========================================================================
+# OPERATIONAL RUNNING INSTRUCTIONS (COPY & PASTE FOR YOUR TERMINALS)
+# =========================================================================
+
+## STEP 1 [Local Machine Terminal]: Open the Network Bridge / SSH Tunnel-
+-  ssh -L 5678:localhost:5678 dev@your-remote-server-ip
+
+## STEP 2 [Remote Container Shell]: Launch your App with Debugpy
+ - python -m debugpy --listen 0.0.0.0:5678 --wait-for-client main.py
+
+## STEP 3 [Emacs]: Open file via TRAMP, set breakpoint (C-c d b), 
+- run M-x dape (C-c d d) and choose 'debugpy-remote-tramp-docker'.
+  
+## STEP 4 [Variable Printing]: 
+
+ Look at the automatically updated '*dape-info Variables*' sidebar window,
+ or switch to the REPL (C-c d r) and type raw Python expressions directly.
+ =========================================================================
 
