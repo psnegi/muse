@@ -63,4 +63,9 @@ dev-dependencies = [
 - open the project in emacs via tramp c-x c-f
 /docker:python_uv_container:/workspace/
 
+# VM setup
+enable vituralization in bios 
+
+sudo apt install qemu-kvm virt-manager
+
 
