@@ -1,0 +1,8 @@
+
+- pi install npm:@juicesharp/rpiv-pi (execution tools)
+ and  pi install npm:@juicesharp/rpiv-workflow (blue print
+
+ - pi install npm:@darkhorseprojects/pi-gnosis (grounded research, manin, non linear tutroing, mapping complex topics conceptually rather than reading down rigit list, Obsidian Learning Memory)
+
+- pi install npm:@tintinweb/pi-tasks (blue print generator, DAG generator)
+ and pi install npm:@tintinweb/pi-subagents (execution environment)
